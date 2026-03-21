@@ -1,0 +1,26 @@
+{
+  "project_id": "zhihu-sweet-doctor",
+  "title": "知乎甜宠：医生追妻",
+  "project_room_id": "!nss4Q7X9I1isJLEsu6:matrix-local.hiclaw.io:18080",
+  "status": "active",
+  "workers": [
+    "creative-planner",
+    "character-designer",
+    "plot-architect",
+    "coolpoint-analyst",
+    "writer",
+    "quality-auditor",
+    "jury-coordinator",
+    "battle-judge",
+    "jury-sweet-lover",
+    "jury-angst-lover",
+    "jury-power-fantasy",
+    "jury-logic-fan",
+    "jury-pace-lover",
+    "jury-writing-style",
+    "jury-general-reader",
+    "jury-zhihu-native"
+  ],
+  "created_at": "2026-03-21T03:05:51Z",
+  "confirmed_at": "2026-03-21T03:06:00Z"
+}
