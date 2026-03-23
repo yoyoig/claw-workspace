@@ -1,0 +1,19 @@
+{
+  "project_id": "zhihu-novel-20260323-165951",
+  "title": "知乎追妻甜宠短篇小说创作-02",
+  "project_room_id": "!TCh7MRfS739QegXNOK:matrix-local.hiclaw.io:18080",
+  "status": "completed",
+  "workers": [
+    "market-insight",
+    "character-architect",
+    "plot-designer",
+    "architecture-reviewer",
+    "content-creator",
+    "dialogue-polisher",
+    "qa-inspector",
+    "packaging-specialist"
+  ],
+  "created_at": "2026-03-23T08:59:51Z",
+  "confirmed_at": null,
+  "completed_at": "2026-03-23T18:00:08+08:00"
+}
