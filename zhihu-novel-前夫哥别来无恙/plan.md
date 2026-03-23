@@ -1,7 +1,7 @@
 # Project: 知乎追妻甜宠短篇小说创作-02
 
 **ID**: zhihu-novel-20260323-165951
-**Status**: active
+**Status**: completed
 **Room**: !TCh7MRfS739QegXNOK:matrix-local.hiclaw.io:18080
 **Created**: 2026-03-23T16:59:51+08:00
 **Confirmed**: 2026-03-23T17:00:00+08:00
