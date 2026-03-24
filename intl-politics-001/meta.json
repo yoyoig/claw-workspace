@@ -1,0 +1,18 @@
+{
+  "project_id": "intl-politics-001",
+  "title": "国际政治形势分析与预测",
+  "project_room_id": "!wY2QunFXAyf7nwLB7q:matrix-local.hiclaw.io:18080",
+  "status": "completed",
+  "workers": [
+    "collector",
+    "geo-analyst",
+    "econ-analyst",
+    "military-analyst",
+    "predictor",
+    "writer",
+    "coordinator"
+  ],
+  "created_at": "2026-03-24T15:09:21Z",
+  "confirmed_at": "2026-03-24T15:09:21Z",
+  "completed_at": "2026-03-24T16:01:00Z"
+}
