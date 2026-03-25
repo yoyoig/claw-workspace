@@ -1,0 +1,11 @@
+{
+  "task_id": "task-001",
+  "project_id": "china-stock-advisor-001",
+  "task_title": "中国经济与政策分析",
+  "assigned_to": "macro-china",
+  "room_id": "!MAlCjP6WdBQzq0H81I:matrix-local.hiclaw.io:18080",
+  "status": "completed",
+  "depends_on": [],
+  "assigned_at": "2026-03-25T08:33:00Z",
+  "completed_at": "2026-03-25T08:45:00Z"
+}
